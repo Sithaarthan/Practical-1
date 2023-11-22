@@ -14,7 +14,7 @@
 </html>
 <asp:Label runat="server" Text="My Details:"></asp:Label>
     <p>
-<asp:Label runat="server" Text="Name: "> </asp:Label><asp:TextBox runat="server" Height="16px" OnTextChanged="Unnamed2_TextChanged" Width="97px"></asp:TextBox>
+<asp:Label runat="server" Text="Names: "> </asp:Label><asp:TextBox runat="server" Height="16px" OnTextChanged="Unnamed2_TextChanged" Width="97px"></asp:TextBox>
     </p>
     <p>
     <asp:Button runat="server" Text="Submit" />
